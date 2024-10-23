@@ -4,6 +4,9 @@ public class Main {
         isEven check = new isEven();
         check.isEven(4);
         check.isEven(7);
+        System.out.println("Task2");
+        findLargest largest = new findLargest();
+        largest.findLargest(5,12,9);
 
     }
 }
