@@ -3,7 +3,7 @@ public class greet {
         System.out.println("Hello!");
     }
     public  void greet( String name){
-        System.out.println("Hello, " + name);
+        System.out.println("Hello, " + name + "!");
     }
 
 }
