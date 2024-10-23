@@ -7,6 +7,9 @@ public class Main {
         System.out.println("Task2");
         findLargest largest = new findLargest();
         largest.findLargest(5,12,9);
+        System.out.println("Task3");
+        calculateArea Area = new calculateArea();
+        Area.calculateArea(5.5,4.0);
 
     }
 }
