@@ -10,6 +10,11 @@ public class Main {
         System.out.println("Task3");
         calculateArea Area = new calculateArea();
         Area.calculateArea(5.5,4.0);
+        System.out.println("Task4");
+        greet greet = new greet();
+        greet.greet();
+        greet.greet("Alice");
+
 
     }
 }
