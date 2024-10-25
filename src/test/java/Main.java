@@ -14,6 +14,11 @@ public class Main {
         greet greet = new greet();
         greet.greet();
         greet.greet("Alice");
+        System.out.println("Task5");
+        ConvertToCelsius Convert = new ConvertToCelsius();
+        double  CelsiusTemperature = Convert.ConvertToCelsius(98.6);
+        System.out.println(CelsiusTemperature);
+
 
 
     }
